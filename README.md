@@ -14,12 +14,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 **职业身份**: 中级前端工程师
-- 🌱 **技术栈**: Vue.js, React, TypeScript, Node.js
-- 💡 **专注领域**: 现代化前端开发、用户体验优化
-- 🎯 **目标**: 成为全栈开发专家
-- 💬 **座右铭**: 用代码温暖世界，让技术传递暖心
-- 📫 **联系方式**: 通过 GitHub Issues 或 Email
+### 🔭 **职业身份**: 中级前端工程师
+### 🌱 **技术栈**: Vue.js, React, TypeScript, Node.js
+### 💡 **专注领域**: 现代化前端开发、用户体验优化
+### 🎯 **目标**: 成为全栈开发专家
+### 💬 **座右铭**: 用代码温暖世界，让技术传递暖心
+### 📫 **联系方式**: 通过 GitHub Issues 或 Email
 
 <br clear="right"/>
 
