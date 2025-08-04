@@ -61,22 +61,6 @@
 
 ---
 
-## 📊 GitHub 统计
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IT-NuanxinPro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-NuanxinPro&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IT-NuanxinPro&theme=tokyonight)
-
-</div>
-
----
 
 ## 🏆 精选项目
 
@@ -89,34 +73,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IT-NuanxinPro&repo=react18-vite5-ts&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/IT-NuanxinPro/Vue3Echarts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IT-NuanxinPro&repo=Vue3Echarts&theme=tokyonight" />
+<a href="https://github.com/IT-NuanxinPro/Babel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IT-NuanxinPro&repo=Babel&theme=tokyonight" />
 </a>
 <a href="https://github.com/IT-NuanxinPro/myStaticServer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IT-NuanxinPro&repo=myStaticServer&theme=tokyonight" />
 </a>
-
-</div>
-
----
-
-## 🎯 技能雷达图
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-radar
-    title 技能雷达图
-    "前端开发" : 85
-    "Vue.js" : 90
-    "React" : 80
-    "TypeScript" : 85
-    "Node.js" : 75
-    "数据可视化" : 80
-    "UI/UX设计" : 70
-    "项目管理" : 75
-```
 
 </div>
 
@@ -143,7 +105,7 @@ radar
 <sub>Ant Design + Material-UI</sub>
 </td>
 <td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c7d25.gif" width="100"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="100"><br>
 <strong>构建工具</strong><br>
 <sub>Vite + Webpack</sub><br>
 <sub>Rollup + ESBuild</sub><br>
@@ -186,18 +148,6 @@ radar
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IT-NuanxinPro&theme=tokyo-night&hide_border=true)
 
 </div>
-
----
-
-## 🌟 成就徽章
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=IT-NuanxinPro&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
 
 ## 🎓 学习路径
 
@@ -251,62 +201,81 @@ radar
 
 ---
 
-## 💼 项目亮点
+## ⚡ 工作流程
 
 <div align="center">
 
-### 🏆 核心项目展示
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<h4>🎯 需求分析</h4>
+<p>深入理解业务需求<br>制定技术实现方案</p>
+</td>
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<h4>🎨 UI/UX设计</h4>
+<p>注重用户体验设计<br>响应式界面布局</p>
+</td>
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+<h4>⚙️ 开发实现</h4>
+<p>编写高质量代码<br>遵循最佳实践</p>
+</td>
+<td align="center" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+<h4>🧪 测试部署</h4>
+<p>全面测试验证<br>持续集成部署</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌈 技术理念
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="400">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300">
+<td align="center" width="350">
 
-**🎨 AdminPro 后台管理系统**
-- 基于 Vue3 + TypeScript + Element Plus
-- 完整的权限管理和用户系统
-- 响应式设计，支持多主题切换
-- 丰富的图表和数据可视化组件
-
-[查看项目 →](https://github.com/IT-NuanxinPro/adminPro)
+### 🎯 代码质量
+- 📝 **可读性优先**: 代码如诗，优雅易懂
+- 🔧 **模块化设计**: 高内聚，低耦合
+- 🧪 **测试驱动**: 保证代码质量和稳定性
+- 📚 **文档完善**: 让代码自己说话
 
 </td>
-<td align="center" width="400">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
+<td align="center" width="350">
 
-**⚡ React18-Vite5-TS 模板**
-- 现代化前端开发环境
-- 集成完整的工具链配置
-- 开箱即用的最佳实践
-- 支持热更新和快速构建
-
-[查看项目 →](https://github.com/IT-NuanxinPro/react18-vite5-ts)
+### 🚀 性能优化
+- ⚡ **加载优化**: 懒加载，代码分割
+- 🎨 **渲染优化**: 虚拟滚动，防抖节流
+- 📦 **打包优化**: Tree-shaking，压缩混淆
+- 🔄 **缓存策略**: 合理利用浏览器缓存
 
 </td>
 </tr>
 <tr>
-<td align="center" width="400">
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-5bea0a33e563.gif" width="300">
+<td align="center" width="350">
 
-**📊 Vue3Echarts 数据可视化**
-- 基于 Vue3 + ECharts 5
-- 大屏数据展示解决方案
-- 多种图表类型和动画效果
-- 自适应布局和主题定制
-
-[查看项目 →](https://github.com/IT-NuanxinPro/Vue3Echarts)
+### 💡 用户体验
+- 📱 **响应式设计**: 适配各种设备
+- 🎭 **交互友好**: 流畅的动画效果
+- ♿ **无障碍访问**: 关注特殊用户群体
+- 🌍 **国际化支持**: 多语言适配
 
 </td>
-<td align="center" width="400">
-<img src="https://user-images.githubusercontent.com/74038190/212749695-f32c5998-ad85-4adc-a7c6-6e2e2b2e6b1a.gif" width="300">
+<td align="center" width="350">
 
-**🔧 MyStaticServer Mock服务**
-- 功能强大的静态Mock服务器
-- 支持API模拟和文档生成
-- 可视化管理界面
-- 多项目配置和参数验证
-
-[查看项目 →](https://github.com/IT-NuanxinPro/myStaticServer)
+### 🔄 持续学习
+- 📖 **技术跟进**: 关注前沿技术动态
+- 🤝 **社区参与**: 积极参与开源项目
+- 💬 **知识分享**: 技术博客和演讲
+- 🎓 **终身学习**: 保持好奇心和学习热情
 
 </td>
 </tr>
@@ -328,82 +297,6 @@ radar
 
 ---
 
-## 🎨 代码艺术
-
-<div align="center">
-
-```javascript
-class FrontendDeveloper {
-  constructor() {
-    this.name = "暖心 (NuanXin)";
-    this.role = "中级前端工程师";
-    this.languages = ["JavaScript", "TypeScript", "HTML", "CSS"];
-    this.frameworks = ["Vue.js", "React", "Node.js"];
-    this.passion = "用代码创造美好体验";
-  }
-
-  sayHi() {
-    console.log("Hello World! 让我们一起用代码改变世界 🌍");
-  }
-
-  getMotivation() {
-    return "每一天都是学习新技术的好日子！";
-  }
-}
-
-const nuanxin = new FrontendDeveloper();
-nuanxin.sayHi();
-```
-
-</div>
-
----
-
-## 🎮 GitHub 游戏化
-
-<div align="center">
-
-### 🏅 成就解锁进度
-
-<table>
-<tr>
-<td align="center">
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60"><br>
-<strong>Pull Shark</strong><br>
-<sub>已解锁 ✅</sub>
-</td>
-<td align="center">
-<img src="https://github.githubassets.com/assets/quickdraw-default-f7b5b7b9e8b6.png" width="60"><br>
-<strong>Quickdraw</strong><br>
-<sub>进行中 🔄</sub>
-</td>
-<td align="center">
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="60"><br>
-<strong>YOLO</strong><br>
-<sub>待解锁 ⏳</sub>
-</td>
-<td align="center">
-<img src="https://github.githubassets.com/assets/galaxy-brain-default-c7b8b7b9e8b6.png" width="60"><br>
-<strong>Galaxy Brain</strong><br>
-<sub>待解锁 ⏳</sub>
-</td>
-</tr>
-</table>
-
-### 🎯 2024 年度目标
-
-- [x] 完成 5 个开源项目 ✅
-- [x] 学习 TypeScript 高级特性 ✅
-- [x] 掌握 Vue 3 Composition API ✅
-- [ ] 贡献 10 个开源项目 🔄 (7/10)
-- [ ] 发布 NPM 包 🔄
-- [ ] 技术博客 50 篇 🔄 (32/50)
-- [ ] GitHub Stars 达到 100 🔄 (67/100)
-
-</div>
-
----
-
 ## 📫 联系我
 
 <div align="center">
@@ -415,50 +308,13 @@ nuanxin.sayHi();
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
+### 💬 即时通讯
+
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
+[![QQ](https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencent-qq&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#)
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-
-</div>
-
----
-
-## 🎊 特别感谢
-
-<div align="center">
-
-### 🙏 致谢
-
-感谢所有为开源社区做出贡献的开发者们！
-感谢每一位访问我主页的朋友！
-感谢技术让我们相遇在这个美好的世界！
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-
-### 💝 如果我的项目对你有帮助
-
-<table>
-<tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100"><br>
-<strong>⭐ Star</strong><br>
-<sub>给项目点个星</sub>
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="100"><br>
-<strong>🍴 Fork</strong><br>
-<sub>Fork 并改进</sub>
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770d43a0c8.png" width="100"><br>
-<strong>🐛 Issue</strong><br>
-<sub>提出问题建议</sub>
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122003-7bb4abb3-9e52-4044-bef0-3b2a623f9dcc.png" width="100"><br>
-<strong>🤝 PR</strong><br>
-<sub>贡献代码</sub>
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -489,7 +345,7 @@ nuanxin.sayHi();
 </div>
 
 <!-- 隐藏的彩蛋 -->
-<!--
+<!-- 
 🎉 恭喜你发现了隐藏的彩蛋！
 如果你看到了这条消息，说明你是一个细心的开发者！
 欢迎通过 GitHub Issues 联系我，我们可以聊聊技术，分享经验！
