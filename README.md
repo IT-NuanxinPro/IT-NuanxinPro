@@ -15,7 +15,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🔭 **职业身份**: 中级前端工程师（正在努力升级中...）
-### 🌱 **技术栈**: Vue.js, React, TypeScript, Node.js（我的快乐源泉）
+### 🌱 **技术栈**: Vue,React,TypeScript,Node.js（我的快乐源泉）
 ### 💡 **专注领域**: 让用户界面比我的心情还要美丽
 ### 🎯 **人生目标**: 成为全栈大佬（目前还在栈底挣扎）
 ### 💬 **座右铭**: 用代码温暖世界，让Bug无处可逃
