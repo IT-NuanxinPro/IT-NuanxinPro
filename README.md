@@ -23,14 +23,5 @@
 ---
 
 ### 🌈 感谢访问我的主页！
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=%E8%AE%A9%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E7%94%A8%E4%BB%A3%E7%A0%81%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C;%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E8%AE%BF%E9%97%AE%EF%BC%8C%E6%9C%9F%E5%BE%85%E4%B8%8E%E6%82%A8%E7%9A%84%E5%90%88%E4%BD%9C;%E7%A5%9D%E6%82%A8%E7%BC%96%E7%A8%8B%E6%84%89%E5%BF%AB%EF%BC%8C%E7%94%9F%E6%B4%BB%E7%BE%8E%E5%A5%BD!" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=IT-NuanxinPro&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-### 🎯 记住我的座右铭
-
-> **"用代码温暖世界，让技术传递暖心"**
-
 </div>
 
